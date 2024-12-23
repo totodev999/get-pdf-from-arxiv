@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+        "url": "https://arxiv.org/abs/2402.19473"
+    },
+    {
+        "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+        "url": "https://arxiv.org/abs/2312.10997"
+    },
+    {
+        "title": "A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models",
+        "url": "https://arxiv.org/abs/2401.01313"
+    },
+    {
+        "title": "Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications",
+        "url": "https://arxiv.org/abs/2311.05876"
+    },
+    {
+        "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+        "url": "https://arxiv.org/abs/2309.07864"
+    },
+    {
+        "title": "Large Language Models for Information Retrieval: A Survey",
+        "url": "https://arxiv.org/abs/2308.07107"
+    },
+    {
+        "title": "A Survey on Retrieval-Augmented Text Generation",
+        "url": "https://arxiv.org/abs/2202.01110"
+    },
+    {
+        "title": "StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization",
+        "url": "https://arxiv.org/abs/2410.08815"
+    },
+    {
+        "title": "RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation",
+        "url": "https://arxiv.org/abs/2408.11381"
+    },
+    {
+        "title": "Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting",
+        "url": "https://arxiv.org/abs/2407.08223"
+    },
+    {
+        "title": "InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales",
+        "url": "https://arxiv.org/abs/2406.13629"
+    },
+    {
+        "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+        "url": "https://arxiv.org/abs/2404.16130"
+    },
+    {
+        "title": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation",
+        "url": "https://arxiv.org/abs/2310.03214"
+    },
+    {
+        "title": "PDFTriage: Question Answering over Long, Structured Documents",
+        "url": "https://arxiv.org/abs/2309.08872"
+    },
+    {
+        "title": "LeanDojo: Theorem Proving with Retrieval-Augmented Language Models",
+        "url": "https://arxiv.org/abs/2306.15626"
+    },
+    {
+        "title": "WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences",
+        "url": "https://arxiv.org/abs/2306.07906"
+    },
+    {
+        "title": "WebCPM: Interactive Web Search for Chinese Long-form Question Answering",
+        "url": "https://arxiv.org/abs/2305.06849"
+    },
+    {
+        "title": "WebGPT: Browser-assisted question-answering with human feedback",
+        "url": "https://arxiv.org/abs/2112.09332"
+    },
+    {
+        "title": "CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models",
+        "url": "https://arxiv.org/abs/2401.17043"
+    },
+    {
+        "title": "RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture",
+        "url": "https://arxiv.org/abs/2401.08406"
+    },
+    {
+        "title": "Seven Failure Points When Engineering a Retrieval Augmented Generation System",
+        "url": "https://arxiv.org/abs/2401.05856"
+    },
+    {
+        "title": "Benchmarking Large Language Models in Retrieval-Augmented Generation",
+        "url": "https://arxiv.org/abs/2309.01431"
+    },
+    {
+        "title": "ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems",
+        "url": "https://arxiv.org/abs/2311.09476"
+    },
+    {
+        "title": "RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge",
+        "url": "https://arxiv.org/abs/2311.08147"
+    },
+    {
+        "title": "Enabling Large Language Models to Generate Text with Citations",
+        "url": "https://arxiv.org/abs/2305.14627"
+    },
+    {
+        "title": "RAGAS: Automated Evaluation of Retrieval Augmented Generation",
+        "url": "https://arxiv.org/abs/2309.15217"
+    }
+]
